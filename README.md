@@ -1,8 +1,9 @@
 ## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, 我是 [0xBB8](https://github.com/dahezhiquan)
 
-### 关于我
+### 关于我 / About Me
 
-你好！我叫 0xBB8，也可以叫我 Bin。我专注于开发高效的代码，热爱挑战复杂的编程问题。希望能与志同道合的开发者一起交流和学习。
+你好！我叫 0xBB8，也可以叫我 Bin。我目前是研究生一年级在读。  
+Hi! I'm 0xBB8, but you can call me Bin. I'm currently a first-year graduate student.
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
@@ -35,7 +36,7 @@
 
 ---
 
-### 你可以在这些地方找到我 ✨
+### 你可以在这些地方找到我 ✨ / You can find me here ✨
 
 <p align="center">
   <a href="https://github.com/threekb">
@@ -56,4 +57,4 @@
 
 ---
 
-### 感谢你的光临！！😊
+### 感谢你的光临！！😊 / Thank you for visiting!! 😊
