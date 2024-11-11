@@ -1,12 +1,10 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, 我是 [0xBB8!](https://github.com/dahezhiquan)
+## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, 我是 [0xBB8](https://github.com/dahezhiquan)
 
-<hr/>
+### 关于我
 
-## 关于我
+你好！我叫 0xBB8，也可以叫我 Bin。我专注于开发高效的代码，热爱挑战复杂的编程问题。希望能与志同道合的开发者一起交流和学习。
 
-- 我的名字是 0xBB8，或者你可以叫我 bin。
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -34,10 +32,10 @@
     </tr>
   </tbody>
 </table>
-<hr>
 
-<h1 align="center">
-✨ 你可以在这些地方找到我 ✨
+---
+
+### 你可以在这些地方找到我 ✨
 
 <p align="center">
   <a href="https://github.com/dahezhiquan">
@@ -47,14 +45,15 @@
     <img src="https://img.shields.io/badge/Bilibili-%231E90FF.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="">  
   </a>
 </p>
-</h1>
 
-<div align = "center">
+---
+
+<div align="center">
 
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-<hr>
-
 </div>
 
-<h3>感谢你的光临！！😊</h3>
+---
+
+### 感谢你的光临！！😊
