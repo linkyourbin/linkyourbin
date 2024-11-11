@@ -21,7 +21,7 @@
       </td>
       <td width="20%" align="center">
         <span><strong>Rust</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Rust_programming_language_black_logo.svg" alt="">
+        <img height="64px" src="https://www.rust-lang.org/logos/rust-logo-128x128-blk-v2.png" alt="">
       </td>
       <td width="20%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
