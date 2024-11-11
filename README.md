@@ -1,10 +1,10 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [0xBB8!](https://github.com/dahezhiquan)
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, 我是 [0xBB8!](https://github.com/dahezhiquan)
 
 <hr/>
 
-## About Me
+## 关于我
 
-- My name is 0xBB8, or you can call me bin.s.
+- 我的名字是 0xBB8，或者你可以叫我 bin.s。
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -37,7 +37,7 @@
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ 你可以在这些地方找到我 ✨
 
 <p align="center">
   <a href="https://github.com/dahezhiquan">
@@ -57,4 +57,4 @@
 
 </div>
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3>感谢你的光临！！😊</h3>
