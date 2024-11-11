@@ -37,25 +37,13 @@
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="">
-  </a>
-
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/dahezhiquan">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" alt="">  
   </a>
 
   <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="">  
-  </a>
-
-  <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="">
-  </a>
-
-  <a href="https://twitter.com/parthpatel_27">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="">
+  <a href="[https://space.bilibili.com/12345678](https://space.bilibili.com/3493142393260061?spm_id_from=333.1007.0.0)">
+    <img src="https://img.shields.io/badge/Bilibili-%231E90FF.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="">  
   </a>
 </p>
 </h1>
