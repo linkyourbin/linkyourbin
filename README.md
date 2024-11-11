@@ -50,8 +50,8 @@
 
 <div align="center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=threekb&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=threekb&show_icons=true&theme=radical)
+![threekb's GitHub stats](https://github-readme-stats.vercel.app/api?username=threekb&show_icons=true&theme=radical)
+
 </div>
 
 ---
