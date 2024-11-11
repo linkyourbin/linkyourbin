@@ -11,19 +11,23 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>C</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" alt="">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Python</strong></span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" alt="">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
+        <span><strong>Rust</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Rust_programming_language_black_logo.svg" alt="">
+      </td>
+      <td width="20%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="">
       </td>
@@ -36,13 +40,10 @@
 ✨ Where you can find me ✨
 
 <p align="center">
-  <br/>
   <a href="https://github.com/dahezhiquan">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" alt="">  
   </a>
-
-  <br/>
-  <a href="[https://space.bilibili.com/12345678](https://space.bilibili.com/3493142393260061?spm_id_from=333.1007.0.0)">
+  <a href="https://space.bilibili.com/3493142393260061?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/Bilibili-%231E90FF.svg?&style=flat-square&logo=bilibili&logoColor=white" alt="">  
   </a>
 </p>
