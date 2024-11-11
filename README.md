@@ -38,7 +38,7 @@
 ### 你可以在这些地方找到我 ✨
 
 <p align="center">
-  <a href="https://github.com/dahezhiquan">
+  <a href="https://github.com/threekb">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" alt="">  
   </a>
   <a href="https://space.bilibili.com/3493142393260061?spm_id_from=333.1007.0.0">
@@ -50,8 +50,8 @@
 
 <div align="center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=parth-27&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=threekb&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=threekb&show_icons=true&theme=radical)
 </div>
 
 ---
