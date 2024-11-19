@@ -2,8 +2,8 @@
 
 ### 关于我 / About Me
 
-你好！我是 0xBB8，也可以叫我 Bin，目前是研究生一年级的在读生，对技术充满热情，尤其是在 C、Python 和 Rust 等编程语言方面。我也喜欢分享我的学习和项目经验，欢迎互相交流！
-
+- 你好！我是 0xBB8，也可以叫我 Bin，目前是研究生一年级的在读生，对技术充满热情，尤其是在 C、Python 和 Rust 等编程语言方面。我也喜欢分享我的学习和项目经验，欢迎互相交流！
+- Hello! I'm 0xBB8, but you can call me Bin. I'm currently a first-year graduate student with a passion for technology, particularly in programming languages like C, Python, and Rust. I enjoy sharing my learning experiences and project ideas—let's connect and learn together!
 ---
 
 ### 我的技术栈 / My Tech Stack  
