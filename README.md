@@ -1,12 +1,11 @@
-## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 我是 [0xBB8](https://github.com/dahezhiquan)
+## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 我是 [bin](https://github.com/dahezhiquan)
 
-### 关于我 / About Me
+### 关于我
 
-- 你好！我是 0xBB8，也可以叫我 Bin，目前是研究生一年级的在读生，对技术充满热情，尤其是在 C、Python 和 Rust 等编程语言方面。我也喜欢分享我的学习和项目经验，欢迎互相交流！
-- Hello! I'm 0xBB8, but you can call me Bin. I'm currently a first-year graduate student with a passion for technology, particularly in programming languages like C, Python, and Rust. I enjoy sharing my learning experiences and project ideas—let's connect and learn together!
+- 你好！我是Bin，对技术充满热情，尤其是在 C、Python 和 Rust 等编程语言方面。我也喜欢分享我的学习和项目经验，欢迎互相交流！
 ---
 
-### 我的技术栈 / My Tech Stack  
+### 我的技术栈
 
 <table>
   <tbody>
@@ -37,7 +36,7 @@
 
 ---
 
-### 联系我 / Connect with Me ✨  
+### 联系我✨  
 
 <p align="center">
   <a href="https://github.com/threekb">
@@ -60,4 +59,4 @@
 
 ---
 
-### 感谢你的到访 😊 / Thanks for Visiting 😊  
+### 感谢你的到访 😊
