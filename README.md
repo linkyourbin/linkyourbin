@@ -1,4 +1,4 @@
-## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 我是 [bin](https://github.com/dahezhiquan)
+## 你好！<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 我是 [linkyourbin](https://github.com/dahezhiquan)
 
 ### 关于我
 
