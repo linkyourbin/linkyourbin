@@ -2,7 +2,7 @@
 
 ### 关于我
 
-- 你好！我是linkyourbin，也可以叫我bin，我目前正在学习C, Rust和Python等语言。欢迎互相交流！
+- 你好！我是linkyourbin，也可以叫我bin，我目前正在学习C, Rust和Python等语言。期待交流学习。
 ---
 
 ### 我的技术栈
