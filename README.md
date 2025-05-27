@@ -39,7 +39,7 @@
 ### 联系我✨  
 
 <p align="center">
-  <a href="https://github.com/threekb">
+  <a href="https://github.com/linkyourbin">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" alt="GitHub">  
   </a>
   <a href="https://space.bilibili.com/3493142393260061?spm_id_from=333.1007.0.0">
