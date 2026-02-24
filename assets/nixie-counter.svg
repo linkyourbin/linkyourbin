@@ -68,8 +68,8 @@
   <!-- Tube 5 -->
   <rect x="318" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
   <rect x="318" y="8" width="56" height="90" rx="6" fill="url(#digitGlow5)"/>
-  <text x="346.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">1</text>
-  <text x="346.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">1</text>
+  <text x="346.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">2</text>
+  <text x="346.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">2</text>
   <rect x="12" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
   <rect x="74" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
   <rect x="136" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
