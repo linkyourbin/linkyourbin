@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="./assets/nixie-counter.svg" alt="Visitor Count" />
+<img src="./assets/nixie-counter.svg" alt="Visitor Count" width="100%" />
 
 </div>
 
