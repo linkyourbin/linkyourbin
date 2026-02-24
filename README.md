@@ -29,6 +29,7 @@
 [![Embedded Rust](https://img.shields.io/badge/Embedded_Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://docs.rust-embedded.org/)
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
 [![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
+[![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)](https://riscv.org/)
 
 </td>
 <td align="center" width="33%">
