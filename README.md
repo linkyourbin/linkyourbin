@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://count.getloli.com/@linkyourbin?theme=nixie-tube" alt="Visitor Count" />
+<img src="./assets/nixie-counter.svg" alt="Visitor Count" />
 
 </div>
 

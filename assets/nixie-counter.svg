@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="382" height="106" viewBox="0 0 382 106">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="tubeBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1a1008"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </radialGradient>
+<!-- PLACEHOLDER_1 -->
+    <radialGradient id="digitGlow0" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffaa33" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="digitGlow1" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffaa33" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="digitGlow2" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffaa33" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="digitGlow3" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffaa33" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="digitGlow4" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffaa33" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="digitGlow5" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ffaa33" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffaa33" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="382" height="106" rx="8" fill="#0d0d0d"/>
+  <!-- Tube 0 -->
+  <rect x="8" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
+  <rect x="8" y="8" width="56" height="90" rx="6" fill="url(#digitGlow0)"/>
+  <text x="36.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">0</text>
+  <text x="36.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">0</text>
+  <!-- Tube 1 -->
+  <rect x="70" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
+  <rect x="70" y="8" width="56" height="90" rx="6" fill="url(#digitGlow1)"/>
+  <text x="98.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">0</text>
+  <text x="98.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">0</text>
+  <!-- Tube 2 -->
+  <rect x="132" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
+  <rect x="132" y="8" width="56" height="90" rx="6" fill="url(#digitGlow2)"/>
+  <text x="160.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">0</text>
+  <text x="160.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">0</text>
+  <!-- Tube 3 -->
+  <rect x="194" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
+  <rect x="194" y="8" width="56" height="90" rx="6" fill="url(#digitGlow3)"/>
+  <text x="222.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">0</text>
+  <text x="222.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">0</text>
+  <!-- Tube 4 -->
+  <rect x="256" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
+  <rect x="256" y="8" width="56" height="90" rx="6" fill="url(#digitGlow4)"/>
+  <text x="284.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">0</text>
+  <text x="284.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">0</text>
+  <!-- Tube 5 -->
+  <rect x="318" y="8" width="56" height="90" rx="6" fill="url(#tubeBg)" stroke="#222" stroke-width="1"/>
+  <rect x="318" y="8" width="56" height="90" rx="6" fill="url(#digitGlow5)"/>
+  <text x="346.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ff8c00" filter="url(#glow)" opacity="0.95">1</text>
+  <text x="346.0" y="57.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="52" font-weight="bold" fill="#ffb347" opacity="0.3">1</text>
+  <rect x="12" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
+  <rect x="74" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
+  <rect x="136" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
+  <rect x="198" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
+  <rect x="260" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
+  <rect x="322" y="10" width="48" height="31.499999999999996" rx="4" fill="white" opacity="0.04"/>
+</svg>
