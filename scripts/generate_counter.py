@@ -42,8 +42,8 @@ def generate_svg(count):
       </feMerge>
     </filter>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f5f5f5"/>
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
     <radialGradient id="tubeBg" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#0f0f2a"/>
@@ -62,8 +62,7 @@ def generate_svg(count):
   </defs>"""
 
     svg += f"""
-  <rect width="{total_w}" height="{total_h}" rx="12" fill="url(#bgGrad)"/>
-  <rect x="1" y="1" width="{total_w - 2}" height="{total_h - 2}" rx="12" fill="none" stroke="#e0e0e0" stroke-width="1" opacity="0.5"/>"""
+  <rect width="{total_w}" height="{total_h}" rx="12" fill="none"/>"""
 
     # Label
     svg += f"""
