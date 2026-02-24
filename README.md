@@ -11,7 +11,7 @@
 ### ⚡ Tech Stack
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 <h4>🦀 Languages</h4>
