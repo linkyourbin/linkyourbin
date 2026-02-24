@@ -17,6 +17,7 @@
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" /></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" /></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" /></a>&nbsp;
+<a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="48" /></a>&nbsp;
 <a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="48" /></a>&nbsp;
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" /></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" /></a>&nbsp;
