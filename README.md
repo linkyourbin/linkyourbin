@@ -39,7 +39,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/linkyourbin/linkyourbin/output/github-snake-dark.svg)
 
-<img src="https://profile-counter.glitch.me/linkyourbin/count.svg" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=linkyourbin&color=F7931A&style=flat-square&label=Visitors" alt="Visitor Count" />
 
 </div>
 
