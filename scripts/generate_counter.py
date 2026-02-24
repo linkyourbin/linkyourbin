@@ -46,8 +46,8 @@ def generate_svg(count):
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
     <radialGradient id="tubeBg" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0f0f2a"/>
-      <stop offset="100%" stop-color="#080816"/>
+      <stop offset="0%" stop-color="#2a2a3d"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
     </radialGradient>"""
 
     # PLACEHOLDER_APPEND
@@ -75,7 +75,7 @@ def generate_svg(count):
         cy = PADDING + DIGIT_HEIGHT / 2
 
         svg += f"""
-  <rect x="{x}" y="{PADDING}" width="{DIGIT_WIDTH}" height="{DIGIT_HEIGHT}" rx="8" fill="url(#tubeBg)" stroke="#2a2a50" stroke-width="1"/>
+  <rect x="{x}" y="{PADDING}" width="{DIGIT_WIDTH}" height="{DIGIT_HEIGHT}" rx="8" fill="url(#tubeBg)" stroke="#4a4a6a" stroke-width="1"/>
   <rect x="{x}" y="{PADDING}" width="{DIGIT_WIDTH}" height="{DIGIT_HEIGHT}" rx="8" fill="url(#digitGlow{i})"/>
   <text x="{cx}" y="{cy + 4}" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#a78bfa" filter="url(#glow)" opacity="0.95">{d}</text>
   <text x="{cx}" y="{cy + 4}" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#c4b5fd" opacity="0.2">{d}</text>"""
