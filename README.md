@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=linkyourbin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Rust%20%7C%20Hardware%20Design&descSize=18&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e8622c,50:ff6b8a,100:ffffff&height=200&section=header&text=linkyourbin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Rust%20%7C%20Hardware%20Design&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F7931A&center=true&vCenter=true&random=false&width=600&lines=Rust+%26+Embedded+Systems+Developer;Hardware+Designer+%7C+KiCad+Enthusiast;Building+bridges+between+software+%26+hardware;From+bare+metal+to+beautiful+UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E8622C&center=true&vCenter=true&random=false&width=600&lines=Rust+%26+Embedded+Systems+Developer;Hardware+Designer+%7C+KiCad+Enthusiast;Building+bridges+between+software+%26+hardware;From+bare+metal+to+beautiful+UI)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,4 +42,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff6b8a,100:e8622c&height=100&section=footer)
