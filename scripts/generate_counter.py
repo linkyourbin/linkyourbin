@@ -46,16 +46,17 @@ def generate_svg(count):
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
     <radialGradient id="tubeBg" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#2a2a3d"/>
-      <stop offset="100%" stop-color="#1a1a2e"/>
+      <stop offset="0%" stop-color="#2a1a1a"/>
+      <stop offset="100%" stop-color="#1e1018"/>
     </radialGradient>"""
 
     # PLACEHOLDER_APPEND
     for i in range(num_digits):
         svg += f"""
     <radialGradient id="digitGlow{i}" cx="50%" cy="45%" r="55%">
-      <stop offset="0%" stop-color="#6c5ce7" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#6c5ce7" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff6b8a" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#e8622c" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#e8622c" stop-opacity="0"/>
     </radialGradient>"""
 
     svg += """
@@ -66,7 +67,7 @@ def generate_svg(count):
 
     # Label
     svg += f"""
-  <text x="{total_w / 2}" y="{PADDING + DIGIT_HEIGHT + 24}" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#8b7fc7" letter-spacing="4">V I S I T O R S</text>"""
+  <text x="{total_w / 2}" y="{PADDING + DIGIT_HEIGHT + 24}" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#d4756a" letter-spacing="4">V I S I T O R S</text>"""
 
     # Tubes
     for i, d in enumerate(digits):
@@ -75,10 +76,10 @@ def generate_svg(count):
         cy = PADDING + DIGIT_HEIGHT / 2
 
         svg += f"""
-  <rect x="{x}" y="{PADDING}" width="{DIGIT_WIDTH}" height="{DIGIT_HEIGHT}" rx="8" fill="url(#tubeBg)" stroke="#4a4a6a" stroke-width="1"/>
+  <rect x="{x}" y="{PADDING}" width="{DIGIT_WIDTH}" height="{DIGIT_HEIGHT}" rx="8" fill="url(#tubeBg)" stroke="#5a3030" stroke-width="1"/>
   <rect x="{x}" y="{PADDING}" width="{DIGIT_WIDTH}" height="{DIGIT_HEIGHT}" rx="8" fill="url(#digitGlow{i})"/>
-  <text x="{cx}" y="{cy + 4}" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#a78bfa" filter="url(#glow)" opacity="0.95">{d}</text>
-  <text x="{cx}" y="{cy + 4}" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#c4b5fd" opacity="0.2">{d}</text>"""
+  <text x="{cx}" y="{cy + 4}" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#e8622c" filter="url(#glow)" opacity="0.95">{d}</text>
+  <text x="{cx}" y="{cy + 4}" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#ff6b8a" opacity="0.25">{d}</text>"""
 
     # Glass reflection
     for i in range(num_digits):
