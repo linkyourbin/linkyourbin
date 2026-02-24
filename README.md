@@ -35,21 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=linkyourbin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7931A&icon_color=F7931A&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkyourbin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7931A&text_color=FFFFFF" />
-
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com?user=linkyourbin&theme=radical&hide_border=true&background=0D1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A" />
-
-<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=linkyourbin&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7931A&line=F7931A&point=FFFFFF" />
-
-</div>
-
----
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/linkyourbin/linkyourbin/output/github-snake-dark.svg)
