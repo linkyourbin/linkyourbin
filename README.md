@@ -27,6 +27,9 @@
 <br/>
 
 <a href="https://docs.rust-embedded.org/"><img src="https://img.shields.io/badge/Embedded_Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Embedded Rust" /></a>
+<a href="https://slint.dev/"><img src="https://img.shields.io/badge/Slint-2379F4?style=for-the-badge&logoColor=white" alt="Slint" /></a>
+<a href="https://ratatui.rs/"><img src="https://img.shields.io/badge/Ratatui-F7931A?style=for-the-badge&logoColor=white" alt="Ratatui" /></a>
+<a href="https://bevyengine.org/"><img src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white" alt="Bevy" /></a>
 <a href="https://www.kicad.org/"><img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /></a>
 <a href="https://www.altium.com/altium-designer"><img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" /></a>
 <a href="https://www.arm.com/"><img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" /></a>
