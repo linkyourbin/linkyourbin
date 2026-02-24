@@ -20,15 +20,23 @@
 <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" /></a>&nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" /></a>
 <br/><br/>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" /></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" /></a>&nbsp;&nbsp;
+<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="48" /></a>
+<br/><br/>
 </td>
 <td align="center" width="33%">
 <h4>🔩 Embedded & Hardware</h4>
 <br/>
 <a href="https://docs.rust-embedded.org/"><img src="https://img.shields.io/badge/Embedded_Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Embedded Rust" /></a>
+<br/>
 <a href="https://www.kicad.org/"><img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /></a>
 <br/>
 <a href="https://www.arm.com/"><img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" /></a>
+&nbsp;
 <a href="https://riscv.org/"><img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" /></a>
+<br/>
+<a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /></a>
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -36,9 +44,11 @@
 <br/>
 <a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="48" /></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" /></a>
+<br/><br/>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" /></a>&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" /></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" /></a>
 <br/><br/>
 </td>
 </tr>
@@ -47,9 +57,17 @@
 
 ---
 
+### 🐍 Contribution Graph
+
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/linkyourbin/linkyourbin/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linkyourbin/linkyourbin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linkyourbin/linkyourbin/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/linkyourbin/linkyourbin/output/github-snake-dark.svg" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linkyourbin&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7931A&line=F7931A&point=FFFFFF&area=true&area_color=F7931A" width="95%" />
 
 <img src="https://komarev.com/ghpvc/?username=linkyourbin&color=F7931A&style=flat-square&label=Visitors" alt="Visitor Count" />
 
