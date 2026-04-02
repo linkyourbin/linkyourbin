@@ -90,8 +90,8 @@
   <text x="492.0" y="70.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#ff6b8a" opacity="0.25">6</text>
   <rect x="534" y="16" width="64" height="100" rx="8" fill="url(#tubeBg)" stroke="#5a3030" stroke-width="1"/>
   <rect x="534" y="16" width="64" height="100" rx="8" fill="url(#digitGlow7)"/>
-  <text x="566.0" y="70.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#e8622c" filter="url(#glow)" opacity="0.95">4</text>
-  <text x="566.0" y="70.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#ff6b8a" opacity="0.25">4</text>
+  <text x="566.0" y="70.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#e8622c" filter="url(#glow)" opacity="0.95">5</text>
+  <text x="566.0" y="70.0" text-anchor="middle" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#ff6b8a" opacity="0.25">5</text>
   <rect x="21" y="19" width="54" height="30.0" rx="4" fill="white" opacity="0.03"/>
   <rect x="95" y="19" width="54" height="30.0" rx="4" fill="white" opacity="0.03"/>
   <rect x="169" y="19" width="54" height="30.0" rx="4" fill="white" opacity="0.03"/>
